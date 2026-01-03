@@ -1,0 +1,164 @@
+# lafs-core
+
+# LAFSINFINITY INC. — DOEGONANAS CORE SYSTEM
+## Master Operational Metadata, Legal Architecture & Asset Schema
+
+---
+
+## 1. ENTITY STRUCTURE
+
+**Parent Entity:**  
+LAFSINFINITY INC.
+
+**Operational Arms:**
+- DOEGONANAS (Digital Asset + Contribution Routing System)
+- WE ACTUALLY HELP PEOPLE INC. (Public Benefit Interface)
+- K.A.D. Holdingz (Property Management & Stewardship Entity)
+
+This repository serves as the **authoritative system record** governing structure, intent, metadata, and operational flow.
+
+---
+
+## 2. DOEGONANAS — SYSTEM PURPOSE
+
+DOEGONANAS is a **non-custodial, contribution-routing digital system** designed to:
+
+- Record voluntary contributions
+- Preserve contributor metadata
+- Enable lawful appraisal-based tax documentation pathways
+- Coordinate stewardship and management of contributed assets
+- Support education, access, and economic onboarding for underserved participants
+
+DOEGONANAS **does not** provide legal, tax, or investment advice.  
+All actions occur through independently verified third-party professionals.
+
+---
+
+## 3. IRS FORM 8283 — FUNCTIONAL POSITIONING (LEGAL)
+
+- Contributors independently obtain qualified appraisals
+- Contributors voluntarily contribute property interests
+- Appraisal documentation is retained by contributor
+- Form 8283 completion remains contributor responsibility
+- Receiving entities acknowledge receipt only
+
+DOEGONANAS acts solely as:
+- Metadata registrar
+- Contribution ledger
+- Asset-reference system
+
+No valuation is performed internally.
+
+---
+
+## 4. K.A.D. HOLDINGZ — ROLE DEFINITION
+
+K.A.D. Holdingz functions as a **management and stewardship entity**, not a purchaser.
+
+Responsibilities may include:
+- Maintenance coordination
+- Title administration (where applicable)
+- Value preservation activities
+- Compliance tracking
+
+Ownership outcomes depend exclusively on executed third-party agreements.
+
+---
+
+## 5. DIGITAL ASSETS & TOKENS (NON-SECURITY POSITION)
+
+Any digital tokens referenced within DOEGONANAS are:
+- Utility-based
+- Non-custodial
+- Non-yield-bearing
+- Non-promissory
+- Non-investment instruments
+
+Tokens may be used for:
+- Access
+- Education
+- Identity tagging
+- System navigation
+- Community onboarding
+
+No expectation of profit is implied or stated.
+
+---
+
+## 6. WALLET INTERACTION PRINCIPLES
+
+- Users retain full control of wallets
+- System does not custody private keys
+- Tokens may be distributed freely for onboarding and education
+- Wallets may remain empty or inactive
+
+Airdrops are voluntary, non-contractual, and revocable.
+
+---
+
+## 7. INTERNAL CORPORATE SCALABILITY (IPO-ADJACENT)
+
+DOEGONANAS supports the creation of **internal operational units** that may:
+
+- Mirror public-company governance without public trading
+- Operate as cooperatives, subsidiaries, or internal divisions
+- Use tokenized access rights without equity claims
+
+Any future IPO or equivalent structure requires independent regulatory compliance.
+
+---
+
+## 8. METADATA SCHEMA (CORE)
+
+Each asset or contribution record may include:
+
+- Timestamp
+- Non-identifying contributor reference
+- Asset class
+- Jurisdiction
+- Stewardship entity
+- Documentation hash (if applicable)
+- Status flag (active / archived)
+
+Personally identifiable information is not required.
+
+---
+
+## 9. VISUAL & MEDIA ASSETS
+
+This repository supports:
+- Image uploads
+- Video uploads
+- PDF documents
+- Legal scans
+- Branding assets
+
+All visuals remain property of their respective rights holders.
+
+---
+
+## 10. DISCLAIMER
+
+This repository is:
+- Informational
+- Architectural
+- Declarative
+
+It is **not**:
+- Legal advice
+- Tax advice
+- Investment solicitation
+
+All users are responsible for compliance with local laws.
+
+---
+
+## STATUS
+
+This document represents the **live master record** of the DOEGONANAS system as initialized.
+
+Updates are version-controlled and timestamped.
+
+---
+
+© LAFSINFINITY INC. — All Rights Reserved
